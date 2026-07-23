@@ -1,0 +1,89 @@
+ .background
+ {
+ 	background-image: url(images/background.gif);
+ 	background-repeat: no-repeat;
+ 	background-position: center center;
+ 	background-attachment: fixed;
+ }
+ 
+ .memberbackground
+ {
+  	background-repeat: no-repeat;
+ 	background-position: left center;
+ }
+ 
+ .white
+ {
+ 	 background-color: #BB996C;
+ 	 color: #FFFFFF;
+ }
+
+ .black
+ {
+ 	 background-color: #BB996C;
+ 	 color: #000000;
+ }
+ 
+ .table
+ {
+ 	border: #000000;
+ 	border-style: solid;
+ 	border-top-width: thin;
+ 	border-right-width: thin;
+ 	border-bottom-width: thin;
+ 	border-left-width: thin;
+ 	font-size: 10pt;
+ }
+
+ .ecwebbox
+ {
+  font-size: 10px;
+  font-weight: bold;
+ }
+
+ A.ecwebboxinfo:link
+ {
+  color: #FF960A;
+  text-decoration: none;
+ }
+ 
+ A.ecwebboxinfo:active
+ {
+  color: #FF960A;
+  text-decoration: none;
+ }
+
+ A.ecwebboxinfo:visited
+ {
+  color: #FF960A;
+  text-decoration: none;
+ } 
+
+
+a:link
+{
+	color: #FFFFFF;
+}
+
+a:visited
+{
+	color:#FFFFFF;
+}
+
+a:active
+{
+	color:#FFFFFF;
+}
+
+body
+{
+	background-color: #BB996C;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+table
+{
+	font-size: 10pt;
+	background-repeat: no-repeat;
+}
